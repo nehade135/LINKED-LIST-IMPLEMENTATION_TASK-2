@@ -15,6 +15,10 @@ Mentor: Neela Santhosh Kumar
 LINKED-LIST-IMPLEMENTATION
 
 Output of the code
+![Task_2](https://github.com/user-attachments/assets/ca756de5-ea14-49b8-8358-1e600ec5d381)
+
+Project Overview
+
 A linked list is a linear data structure where elements, called nodes, are connected via pointers. Each node contains two parts: data (the value) and a pointer (reference) to the next node in the sequence. The last node's pointer is set to NULL, indicating the end of the list.
 
 Types of Linked Lists:
